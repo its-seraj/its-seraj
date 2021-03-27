@@ -4,11 +4,17 @@
 <img align="right" border-radius="14px" width="40%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 - 🔭 I’m currently working on web developing projects
+
 - 🌱 I’m currently learning Machine Learning in Python
+
 - 👯 I’m looking to collaborate with other content creators
+
 - 💬 Ask me about Web Development, Algo. Design, Ethical Hacking
+
 - 📫 How to reach me: <a href="mailto:serajkhan48522@gmail.com"> Gmail</a>
+
 - 😄 2022 Goals: Contribute more to Open Source projects
+
 - ⚡ Fun fact: Eat 🍔 Sleep 😴 Learn 💻 Repeat 🔁
 
 
@@ -68,3 +74,18 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seraj48522&" alt="seraj48522" /></p>
 
+
+
+
+
+- 🔭 I’m currently working on **dshhdsj**
+
+- 🌱 I’m currently learning **sdn**
+
+- 👯 I’m looking to collaborate on **hsksmn**
+
+- 🤝 I’m looking for help with **sdn**
+
+- 💬 Ask me about **dfaasj**
+
+- 📫 How to reach me **serajkhan48522@gmail.com**
