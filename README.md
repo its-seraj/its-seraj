@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 <p>BTC : 1DQwiiuQhmPdwbukzrAJYrUMCAtNNfCx5</p>
 <p>ETH : 0x5b23e988e9aa98d249293db7afa979af815c4e80</p>
 <p>LTC : LQswtNRrpNJHVYH5chZTcE4N1AmxMx8o5b</p>
-<p>XRP : rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh<\t>TAG : 102316770</p>
+<p>XRP : rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh    ::    TAG : 102316770</p>
 <p>GOGE : DEsxTHrwvm8N8Ti5G7f4f8HAxuVfuEWmtt</p>
 <p>ADA : DdzFFzCqrhspeeLKgiqddDAi6tr5jgnwTWswPSRBXJyArwiCA4qbo1KXD8P6K3p1mwT8N51MrrD9qymVYGWrcyeCBZrT2bRo3FLPypnY</p>
 <p>USDT : 0x5b23e988e9aa98d249293db7afa979af815c4e80</p>
