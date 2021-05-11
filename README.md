@@ -105,5 +105,14 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seraj48522&" alt="seraj48522" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seraj48522" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seraj48522" /></a></p>
+<h4>Crypto's : </h4>
+<p>BTC : 1DQwiiuQhmPdwbukzrAJYrUMCAtNNfCx5</p>
+<p>ETH : 0x5b23e988e9aa98d249293db7afa979af815c4e80</p>
+<p>LTC : LQswtNRrpNJHVYH5chZTcE4N1AmxMx8o5b</p>
+<p>XRP : rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh && TAG : 102316770</p>
+<p>GOGE : DEsxTHrwvm8N8Ti5G7f4f8HAxuVfuEWmtt</p>
+<p>ADA : DdzFFzCqrhspeeLKgiqddDAi6tr5jgnwTWswPSRBXJyArwiCA4qbo1KXD8P6K3p1mwT8N51MrrD9qymVYGWrcyeCBZrT2bRo3FLPypnY</p>
+<p>USDT : 0x5b23e988e9aa98d249293db7afa979af815c4e80</p>
+<br><br>
 
