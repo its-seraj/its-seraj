@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Web Development, Algo. Design, Ethical Hacking
 
-- 📫 How to reach me: <b><a href="mailto:serajkhan48522@gmail.com"> Gmail</a></b>
+- 📫 How to reach me: <b><a href="mailto:serajkhan48522@gmail.com"> Gmail</a> || <a href="https://t.me/its_seraj"> Telegram</a></b>
 
 - 😄 2022 Goals: Contribute more to Open Source projects
 
