@@ -49,7 +49,7 @@
 
 
 <!--
-**seraj48522/seraj48522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seraj48522&" alt="seraj48522" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seraj48522" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" src=https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif" height="50" width="210" alt="seraj48522" /></a></p><br><br>
 <h4><b>Crypto's : </b></h4>
 <p>BTC : 1DQwiiuQhmPdwbukzrAJYrUMCAtNNfCx5</p>
 <p>ETH : 0x5b23e988e9aa98d249293db7afa979af815c4e80</p>
