@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seraj48522&" alt="seraj48522" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" src="https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif" alt="NuyMeACoffe" />
+<p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" height="50px" src="https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif" alt="NuyMeACoffe" />
   <img src="https://media.giphy.com/media/wQalJEIkSWUaVTXHHB/giphy.gif" /></a>
 </p><br><br>
 <h4><b>Crypto's : </b></h4>
