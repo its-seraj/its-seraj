@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" src="https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif" alt="NuyMeACoffe" /</a></p><br><br>
 <h4><b>Crypto's : </b></h4>
-<p line-height="100%"><img height="24px" src="https://freepngimg.com/thumb/bitcoin/59687-blockchain-bitcoin-virtual-cryptocurrency-currency-ethereum.png" /> : 1DQwiiuQhmPdwbukzrAJYrUMCAtNNfCx5</p>
+<p line-height="200%"><img height="24px" src="https://freepngimg.com/thumb/bitcoin/59687-blockchain-bitcoin-virtual-cryptocurrency-currency-ethereum.png" /> : 1DQwiiuQhmPdwbukzrAJYrUMCAtNNfCx5</p>
 <p>ETH : 0x5b23e988e9aa98d249293db7afa979af815c4e80</p>
 <p>LTC : LQswtNRrpNJHVYH5chZTcE4N1AmxMx8o5b</p>
 <p>XRP : rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh >>> TAG : 102316770</p>
