@@ -92,17 +92,17 @@ Here are some ideas to get you started:
 
 <br><br>
 <!-- Profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seraj48522&label=Profile%20views&color=0e75b6&style=flat" alt="seraj48522" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-seraj&label=Profile%20views&color=0e75b6&style=flat" alt="seraj48522" /> </p>
 <!-- Twitter follower's -->
 <p align="left"> <a href="https://twitter.com/its_seraj" target="blank"><img src="https://img.shields.io/twitter/follow/its_seraj?logo=twitter&style=for-the-badge" alt="its_seraj" /></a> </p>
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seraj48522&show_icons=true&locale=en&layout=compact" alt="seraj48522" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-seraj&show_icons=true&locale=en&layout=compact" alt="seraj48522" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seraj48522&show_icons=true&locale=en" alt="seraj48522" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-seraj&show_icons=true&locale=en" alt="seraj48522" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seraj48522&" alt="seraj48522" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-seraj&" alt="seraj48522" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/seraj48522"> <img align="left" src="https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif" alt="NuyMeACoffe" /</a></p><br><br>
