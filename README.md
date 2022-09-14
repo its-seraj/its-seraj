@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <a href="its-seraj.github.io" taget="_blank">I'm Seraj</a></h1>
+<h1 align="center">Hi 👋, <a href="https://its-seraj.github.io" taget="blank">I'm Seraj</a></h1>
 <h3 align="center">A passionate Full Stack Developer</h3><br><br>
 
 <img align="right" border-radius="14px" width="50%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
