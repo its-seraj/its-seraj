@@ -3,6 +3,15 @@ $(() => {
 
     $(".generate").on("click", () => {
         let text = $("#input_text").val();
+        generateBarcode(text);
+    })
+
+    // UPI section
+    $(".upi").on("click", () => {
+        generateBarcode("upi://pay?pa=hgepk2824k@paytm&pn=MD SERAJ KHAN&mc=0000&mode=02&purpose=00&orgid=159761");
+    })
+
+    function generateBarcode(text){
         let qrIMG = $("<div>").qrcode(text)[0];
 
         swal({
@@ -42,5 +51,5 @@ $(() => {
                 $("#input_text").focus();
             }
         });
-    })
+    }
 })

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,9 +10,17 @@
     <!-- jquery cdn -->
     <script src="https://code.jquery.com/jquery-3.6.1.slim.min.js"></script>
 </head>
+
 <body>
     <div class="container">
-        <textarea name="input_text" id="input_text" cols="30" rows="10"></textarea>
+        <div class="input-box">
+            <textarea name="input_text" id="input_text" cols="30" rows="10"></textarea>
+            <div class="extra">
+                <div class="upi">
+                    <img src="./public/upi-icon.svg" />
+                </div>
+            </div>
+        </div>
         <button class="generate">Generate QR</button>
         <div class="qr"></div>
     </div>
@@ -20,4 +29,5 @@
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script src="./public/jquery-qr-code.min.js"></script>
 <script src="./public/js.js"></script>
+
 </html>
