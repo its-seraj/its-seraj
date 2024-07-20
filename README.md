@@ -18,6 +18,15 @@
 - ⚡ Fun fact: Eat 🍔 Sleep 😴 Learn 💻 Repeat 🔁
 
 <br><br>
+<h3 align="left">Projects:</h3>
+
+<a href="https://code-snippets-ui.vercel.app/" target="blank">code-snippets</a>
+<a href="https://svg-icons-two.vercel.app/" target="blank">SVG Icons</a>
+<a href="https://diff-editor-ui.vercel.app/" target="blank">Diff Editor</a>
+<a href="https://grid-table-kappa.vercel.app/" target="blank">Grid Table UI</a>
+
+
+<br><br>
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/Its_Seraj" target="blank">
