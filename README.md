@@ -20,10 +20,10 @@
 <br><br>
 <h3 align="left">Projects:</h3>
 
-<a href="https://code-snippets-ui.vercel.app/" target="blank">code-snippets</a>
-<a href="https://svg-icons-two.vercel.app/" target="blank">SVG Icons</a>
-<a href="https://diff-editor-ui.vercel.app/" target="blank">Diff Editor</a>
-<a href="https://grid-table-kappa.vercel.app/" target="blank">Grid Table UI</a>
+<a href="https://code-snippets-ui.vercel.app/" target="blank">code-snippets</a> <br>
+<a href="https://svg-icons-two.vercel.app/" target="blank">SVG Icons</a> <br>
+<a href="https://diff-editor-ui.vercel.app/" target="blank">Diff Editor</a> <br>
+<a href="https://grid-table-kappa.vercel.app/" target="blank">Grid Table UI</a> <br>
 
 
 <br><br>
