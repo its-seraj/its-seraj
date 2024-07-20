@@ -24,6 +24,7 @@
 <a href="https://svg-icons-two.vercel.app/" target="blank">SVG Icons</a> <br>
 <a href="https://diff-editor-ui.vercel.app/" target="blank">Diff Editor</a> <br>
 <a href="https://grid-table-kappa.vercel.app/" target="blank">Grid Table UI</a> <br>
+<a href="https://its-seraj.github.io/its-seraj/qr-code/" target="blank">QR Code Generator</a> <br>
 
 
 <br><br>
