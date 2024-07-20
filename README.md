@@ -20,6 +20,7 @@
 <br><br>
 <h3 align="left">Projects:</h3>
 
+<a href="https://seraj.vercel.app/" target="blank">My Portfolio</a> <br>
 <a href="https://code-snippets-ui.vercel.app/" target="blank">code-snippets</a> <br>
 <a href="https://svg-icons-two.vercel.app/" target="blank">SVG Icons</a> <br>
 <a href="https://diff-editor-ui.vercel.app/" target="blank">Diff Editor</a> <br>
