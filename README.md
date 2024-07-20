@@ -26,6 +26,10 @@
 <a href="https://diff-editor-ui.vercel.app/" target="blank">Diff Editor</a> <br>
 <a href="https://grid-table-kappa.vercel.app/" target="blank">Grid Table UI</a> <br>
 <a href="https://its-seraj.github.io/its-seraj/qr-code/" target="blank">QR Code Generator</a> <br>
+<a href="https://seraj-b2.github.io/excel_extractor/" target="blank">Excel Extractor</a> <br>
+<a href="https://seraj-b2.github.io/uuid/" target="blank">UUID Generator</a> <br>
+<a href="https://seraj-b2.github.io/remDupe/" target="blank">Remove Deplicates</a> <br>
+<a href="https://its-seraj.github.io/dom_to_png/" target="blank">DOM to PNG Generate</a> <br>
 
 
 <br><br>
